@@ -1,0 +1,10 @@
+Line 22: Class Proyecto1.LabelPlus of control LpScroll was not a loaded control class.
+Line 67: Class Proyecto1.LabelPlus of control LP1 was not a loaded control class.
+Line 113: Class Proyecto1.LabelPlus of control LP2 was not a loaded control class.
+Line 159: Class Proyecto1.ucItem of control ucItem was not a loaded control class.
+Line 170: Class Proyecto1.ucNeumorphism of control ucnSelection was not a loaded control class.
+Line 22: Cannot create embedded object in LpScroll.
+Line 67: Cannot create embedded object in LP1.
+Line 113: Cannot create embedded object in LP2.
+Line 159: Cannot create embedded object in ucItem.
+Line 170: Cannot create embedded object in ucnSelection.
